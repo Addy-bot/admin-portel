@@ -1,0 +1,51 @@
+{"dashboard":[
+    {
+        "image": "https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png",
+        "Name": "Varsika",
+        "Designation":"GET",
+        "Department":"IT",
+        "Reporting_Manager": "Rohan Kapoor",
+        "Joining_Date": "24 January 2021"
+    },
+    {
+        "image": "https://www.shareicon.net/data/512x512/2016/08/05/806962_user_512x512.png",
+        "Name": "Aman",
+        "Designation":"Lead-Engineer",
+        "Department":"Operations",
+        "Reporting_Manager": "Ram Arora",
+        "Joining_Date": "11 July 2016"
+    },
+    {
+        "image": "https://www.shareicon.net/data/512x512/2016/08/05/806962_user_512x512.png",
+        "Name": "Gyan",
+        "Designation":"GET",
+        "Department":"IT",
+        "Reporting_Manager": "Vaibhav Singh",
+        "Joining_Date": "2 June 2021"
+    },
+    {
+        "image": "https://www.shareicon.net/data/512x512/2016/08/05/806962_user_512x512.png",
+        "Name": "Rishabh",
+        "Designation":"Senior Manager",
+        "Department":"IT",
+        "Reporting_Manager": "Rakesh Deol",
+        "Joining_Date": "24 September 2012"
+    },
+    {
+        "image": "https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png",
+        "Name": "Swasti",
+        "Designation":"Consultant",
+        "Department":"IT",
+        "Reporting_Manager": "Mohan Arya",
+        "Joining_Date": "20 January 2014"
+    },
+    {
+        "image": "https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png",
+        "Name": "Payal",
+        "Designation":"Assitent Manager",
+        "Department":"Operations",
+        "Reporting_Manager": "Sandeep Reddy",
+        "Joining_Date": "9 December 2015"
+    }
+    ]
+}
