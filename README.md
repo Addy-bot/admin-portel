@@ -1,6 +1,6 @@
 Steps to set-up the project in your local computer:-
 
-1.Open package.json file in final-project folder and install all the dependencies present there with npm.
+1.Open package.json file in final-project-2021 folder and install all the dependencies present there with npm.
 2.Follow the same steps for server folder.
 
 
